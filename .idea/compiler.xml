@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="whosfifty" />
-        <module name="sendEmailWorker" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sendEmailWorker" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
