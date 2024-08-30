@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="whosfifty" />
         <module name="sendEmailWorker" />
+        <module name="sendEmailWorker (1)" />
       </profile>
     </annotationProcessing>
   </component>
