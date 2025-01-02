@@ -1,4 +1,4 @@
-# IT Support Ticketing System
+# 🎟️ IT Support Ticketing System
 
 A modern, enterprise-grade IT support ticketing system built with Camunda Platform 8, Spring Boot, and MongoDB. This system provides a complete business process management solution for handling support tickets through their entire lifecycle.
 
@@ -8,7 +8,8 @@ A modern, enterprise-grade IT support ticketing system built with Camunda Platfo
 
 ## System Architecture
 
-[System Architecture Diagram will be displayed here]
+![System](https://github.com/user-attachments/assets/38d2a3bf-f295-4d03-9a65-9e69ceb9b667)
+
 
 
 ## 🚀 Features
