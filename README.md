@@ -5,8 +5,9 @@ A modern, enterprise-grade IT support ticketing system built with Camunda Platfo
 ## 📚 Documentation
 
 Powerpoint presentation - Overview slides of the project / Milestones / Gantt Chart / Testing 
-
+[Presentation](https://github.com/RyanL2004/Camunda-IT-Support-Ticketing-System/blob/main/Software%20Dev%20presentationslidesTT.pptx)
 Technical Report - Detailed system architecture and implementation details
+
 
 
 ## System Architecture
