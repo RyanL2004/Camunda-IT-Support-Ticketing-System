@@ -2,9 +2,17 @@
 
 A modern, enterprise-grade IT support ticketing system built with Camunda Platform 8, Spring Boot, and MongoDB. This system provides a complete business process management solution for handling support tickets through their entire lifecycle.
 
+## 📚 Documentation
+
+Powerpoint presentation - Overview slides of the project / Milestones / Gantt Chart / Testing 
+
+Technical Report - Detailed system architecture and implementation details
+
+
 ## System Architecture
 
 [System Architecture Diagram will be displayed here]
+
 
 ## 🚀 Features
 
