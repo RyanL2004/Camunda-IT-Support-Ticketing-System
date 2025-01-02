@@ -6,7 +6,7 @@ A modern, enterprise-grade IT support ticketing system built with Camunda Platfo
 - [Technical Report - Detailed system architecture and implementation details](https://github.com/RyanL2004/Camunda-IT-Support-Ticketing-System/blob/main/Development%20Information%20System%20Report.pdf)
 - [Powerpoint Presentation](https://github.com/RyanL2004/Camunda-IT-Support-Ticketing-System/blob/main/Software%20Dev%20presentationslidesTT.pptx) </br>
 
-## System Architecture
+## System
 
 ![System](https://github.com/user-attachments/assets/38d2a3bf-f295-4d03-9a65-9e69ceb9b667)
 
